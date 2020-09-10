@@ -1,6 +1,6 @@
 Tidy Data
 Getting and Cleaning Data Course Project
-Submitted Sept 7, 2018 by MementoMakoMori
+Submitted Sept 7, 2018 by R. Holley
 =========================================
 
 All initial data for this project is from UCI Machine Learning Repository, and can be accessed directly from the following link:
